@@ -1,0 +1,11 @@
+[	
+{
+	"weather": {
+		"id": 300,
+		"main": "Drizzle",
+		"description": "light intensity drizzle",
+		"icon": "09d",
+		"responses": "200"
+	}
+}
+]
