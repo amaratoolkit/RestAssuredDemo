@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 
 import java.util.HashMap;
 public class VerifyGet {
-	//@Test
+	@Test
     public void getResponseCode200(){
      Response resp =   given()
                 .auth()

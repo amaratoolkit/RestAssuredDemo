@@ -20,7 +20,6 @@ public class TestData {
 	        }
 	    }
 	  
-	  
 
 	  @Test
 	  public void testDataFromJson() {

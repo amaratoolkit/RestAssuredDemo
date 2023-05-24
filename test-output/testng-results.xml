@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15106" started-at="2021-11-17T09:19:05 IST" finished-at="2021-11-17T09:19:20 IST">
+  <suite name="Default suite" duration-ms="13031" started-at="2021-11-17T10:23:34 IST" finished-at="2021-11-17T10:23:47 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15106" started-at="2021-11-17T09:19:05 IST" finished-at="2021-11-17T09:19:20 IST">
-      <class name="org.tek.APIAutomation.WeatherAPIUsingGetRequest">
-        <test-method status="PASS" signature="getStatusCode()[pri:0, instance:org.tek.APIAutomation.WeatherAPIUsingGetRequest@1573f9fc]" name="getStatusCode" duration-ms="14975" started-at="2021-11-17T09:19:05 IST" finished-at="2021-11-17T09:19:20 IST">
+    <test name="Default test" duration-ms="13031" started-at="2021-11-17T10:23:34 IST" finished-at="2021-11-17T10:23:47 IST">
+      <class name="org.tek.APIAutomation.WeatherAPIUsingParams">
+        <test-method status="PASS" signature="getStatusCodeUsingAssert()[pri:0, instance:org.tek.APIAutomation.WeatherAPIUsingParams@1573f9fc]" name="getStatusCodeUsingAssert" duration-ms="12927" started-at="2021-11-17T10:23:34 IST" finished-at="2021-11-17T10:23:47 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getStatusCode -->
-      </class> <!-- org.tek.APIAutomation.WeatherAPIUsingGetRequest -->
+        </test-method> <!-- getStatusCodeUsingAssert -->
+      </class> <!-- org.tek.APIAutomation.WeatherAPIUsingParams -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
